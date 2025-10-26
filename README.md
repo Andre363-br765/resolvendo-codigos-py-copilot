@@ -126,7 +126,7 @@ O que aprenderemos?
 * Utilização de condicionais em Python (if, else) para realizar verificações.
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
 * Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
----
+
 ```py
 def par_ou_impar():
     print("=== Verificador de Números Pares e Ímpares ===\n")
