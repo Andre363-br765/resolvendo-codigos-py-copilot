@@ -1,11 +1,9 @@
 # Resolvendo Códigos em Python com o Github Copilot
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+<br>
+Aprendendo Python com pequenos exercícios práticos e aproveitando sugestões do Github Copilot para escrever código de forma eficiente.
 
-### Atenção ⚠️ 
-
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+---
 
 ## 1 - Concatenando Dados 🐾
 
@@ -18,7 +16,7 @@ O que aprenderemos?
 * Concatenação
 * Entrada de dados
 * Utilização eficiente do Github Copilot
----
+
 ```py
 def concatenar_dados():
     dado1 = input("Digite o primeiro dado: ")
@@ -33,7 +31,7 @@ if __name__ == "__main__":
     concatenar_dados()
 ```
 
-<br>
+---
 
 ## 2 - Repetindo Textos ✏️
 
@@ -47,7 +45,7 @@ O que aprenderemos?
 * Múltiplas repetições
 * Entrada de dados
 * Aproveitar as sugestões do Github Copilot
----
+
 ```py
 def operacoes_matematicas():
     print("=== Calculadora Simples ===\n")
@@ -79,7 +77,7 @@ if __name__ == "__main__":
     operacoes_matematicas()
 ```
 
-<br>
+---
 
 ## 3 - Operações Matemáticas Simples 📐
 
@@ -91,7 +89,7 @@ O que aprenderemos?
 * Operações Matemáticas Básicas
 * Entrada de dados
 * Utilização eficiente do Github Copilot
----
+
 ```py
 def repetir_texto():
     print("=== Bem-vindo ao Repetidor de Textos! ===\n")
@@ -117,7 +115,7 @@ if __name__ == "__main__":
     repetir_texto()
 ```
 
-<br>
+---
 
 ## 4 - Verificando Números Pares e Ímpares 🧮
 
@@ -150,9 +148,7 @@ def par_ou_impar():
 if __name__ == "__main__":
     par_ou_impar()
 ```
-
-<br>
-
+---
 ## 5 - Calculando Média de Notas 📚
 
 Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
@@ -162,7 +158,6 @@ O que aprenderemos?
 * Uso de variáveis para armazenar dados fornecidos pelo usuário.
 * Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 * Prática na solicitação e manipulação de entrada do usuário.
----
 ```py
 def calcular_media():
     print("=== Calculadora de Média de Notas ===\n")
@@ -189,7 +184,8 @@ def calcular_media():
 if __name__ == "__main__":
     calcular_media()
 ```
-<br>
+
+---
 
 ## 6 - Verificando Palíndromos 🔄
 
@@ -200,7 +196,6 @@ O que aprenderemos?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
----
 ```py
 def verificar_palindromo():
     print("=== Verificador de Palíndromos ===\n")
